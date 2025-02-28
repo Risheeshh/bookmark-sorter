@@ -1,0 +1,349 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "logo": "https://www.google.com/favicon.ico",
+    "description": "https://www.google.com",
+    "category": "Search"
+  },
+  {
+    "id": 2,
+    "name": "YouTube",
+    "logo": "https://www.youtube.com/favicon.ico",
+    "description": "https://www.youtube.com",
+    "category": "Entertainment"
+  },
+  {
+    "id": 3,
+    "name": "GitHub",
+    "logo": "https://github.githubassets.com/favicon.ico",
+    "description": "https://github.com",
+    "category": "Development"
+  },
+  {
+    "id": 4,
+    "name": "StackOverflow",
+    "logo": "https://stackoverflow.com/favicon.ico",
+    "description": "https://stackoverflow.com",
+    "category": "Search"
+  },
+  {
+    "id": 5,
+    "name": "Reddit",
+    "logo": "https://www.redditstatic.com/favicon.ico",
+    "description": "https://www.reddit.com",
+    "category": "Social"
+  },
+  {
+    "id": 6,
+    "name": "Netflix",
+    "logo": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico",
+    "description": "https://www.netflix.com",
+    "category": "Entertainment"
+  },
+  {
+    "id": 7,
+    "name": "Amazon",
+    "logo": "https://www.amazon.com/favicon.ico",
+    "description": "https://www.amazon.com",
+    "category": "E-Commerce"
+  },
+  {
+    "id": 8,
+    "name": "Twitter (X)",
+    "logo": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "description": "https://twitter.com",
+    "category": "Social"
+  },
+  {
+    "id": 9,
+    "name": "Facebook",
+    "logo": "https://www.facebook.com/favicon.ico",
+    "description": "https://www.facebook.com",
+    "category": "Social"
+  },
+  {
+    "id": 10,
+    "name": "Twitch",
+    "logo": "https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png",
+    "description": "https://www.twitch.tv",
+    "category": "Entertainment"
+  },
+  {
+    "id": 11,
+    "name": "Wikipedia",
+    "logo": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+    "description": "https://www.wikipedia.org",
+    "category": "Search"
+  },
+  {
+    "id": 12,
+    "name": "LinkedIn",
+    "logo": "https://static.licdn.com/sc/h/3i1z3r5t6x8k0fn8f8rqlhzp9",
+    "description": "https://www.linkedin.com",
+    "category": "Social"
+  },
+  {
+    "id": 13,
+    "name": "Discord",
+    "logo": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
+    "description": "https://discord.com",
+    "category": "Social"
+  },
+  {
+    "id": 14,
+    "name": "Dev.to",
+    "logo": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+    "description": "https://dev.to",
+    "category": "Development"
+  },
+  {
+    "id": 15,
+    "name": "Dribbble",
+    "logo": "https://cdn.dribbble.com/assets/favicon.ico",
+    "description": "https://dribbble.com",
+    "category": "Design"
+  },
+  {
+    "id": 16,
+    "name": "Figma",
+    "logo": "https://static.figma.com/app/icon/1/favicon.ico",
+    "description": "https://www.figma.com",
+    "category": "Design"
+  },
+  {
+    "id": 17,
+    "name": "Hacker News",
+    "logo": "https://news.ycombinator.com/favicon.ico",
+    "description": "https://news.ycombinator.com",
+    "category": "News"
+  },
+  {
+    "id": 18,
+    "name": "Notion",
+    "logo": "https://www.notion.so/images/favicon.ico",
+    "description": "https://www.notion.so",
+    "category": "Productivity"
+  },
+  {
+    "id": 19,
+    "name": "Spotify",
+    "logo": "https://www.scdn.co/i/_global/favicon.png",
+    "description": "https://www.spotify.com",
+    "category": "Entertainment"
+  },
+  {
+    "id": 20,
+    "name": "Trello",
+    "logo": "https://d2k1ftgv7pobq7.cloudfront.net/meta/favicon-32x32.png",
+    "description": "https://trello.com",
+    "category": "Productivity"
+  },
+  {
+    "id": 21,
+    "name": "Pinterest",
+    "logo": "https://s.pinimg.com/webapp/favicon-7e5a36eb.png",
+    "description": "https://www.pinterest.com",
+    "category": "Social"
+  },
+  {
+    "id": 22,
+    "name": "CodePen",
+    "logo": "https://blog.codepen.io/wp-content/uploads/2014/06/favicon-150x150.png",
+    "description": "https://codepen.io",
+    "category": "Development"
+  },
+  {
+    "id": 23,
+    "name": "Medium",
+    "logo": "https://miro.medium.com/1*mLP_j6O_g3x2rA-ocZZSmg.png",
+    "description": "https://medium.com",
+    "category": "News"
+  },
+  {
+    "id": 24,
+    "name": "AI Hub",
+    "logo": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "description": "https://aihub.com",
+    "category": "Development"
+  },
+  {
+    "id": 25,
+    "name": "DataVerse",
+    "logo": "https://www.google.com/favicon.ico",
+    "description": "https://dataverse.com",
+    "category": "Development"
+  },
+  {
+    "id": 26,
+    "name": "SketchPad",
+    "logo": "https://static.figma.com/app/icon/1/favicon.ico",
+    "description": "https://sketchpad.io",
+    "category": "Design"
+  },
+  {
+    "id": 27,
+    "name": "CryptoWorld",
+    "logo": "https://news.ycombinator.com/favicon.ico",
+    "description": "https://cryptoworld.io",
+    "category": "Development"
+  },
+  {
+    "id": 28,
+    "name": "DesignFlow",
+    "logo": "https://cdn.dribbble.com/assets/favicon.ico",
+    "description": "https://designflow.co",
+    "category": "Design"
+  },
+  {
+    "id": 29,
+    "name": "Epic Games",
+    "logo": "https://www.epicgames.com/favicon.ico",
+    "description": "https://www.epicgames.com",
+    "category": "Gaming"
+  },
+  {
+    "id": 30,
+    "name": "BattleNet",
+    "logo": "https://www.battle.net/favicon.ico",
+    "description": "https://www.battle.net",
+    "category": "Gaming"
+  },
+  {
+    "id": 31,
+    "name": "Kickstarter",
+    "logo": "https://www.kickstarter.com/favicon.ico",
+    "description": "https://www.kickstarter.com",
+    "category": "E-Commerce"
+  },
+  {
+    "id": 32,
+    "name": "PayPal",
+    "logo": "https://www.paypalobjects.com/webstatic/icon/pp32.png",
+    "description": "https://www.paypal.com",
+    "category": "E-Commerce"
+  },
+  {
+    "id": 33,
+    "name": "BBC News",
+    "logo": "https://www.bbc.co.uk/favicon.ico",
+    "description": "https://www.bbc.com/news",
+    "category": "News"
+  },
+  {
+    "id": 34,
+    "name": "NY Times",
+    "logo": "https://static01.nyt.com/favicon.ico",
+    "description": "https://www.nytimes.com",
+    "category": "News"
+  },
+  {
+    "id": 35,
+    "name": "NASA",
+    "logo": "https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon.png",
+    "description": "https://www.nasa.gov",
+    "category": "Search"
+  },
+  {
+    "id": 36,
+    "name": "MIT OpenCourseWare",
+    "logo": "https://ocw.mit.edu/favicon.ico",
+    "description": "https://ocw.mit.edu",
+    "category": "Search"
+  },
+  {
+    "id": 37,
+    "name": "Wikipedia (Repeated)",
+    "logo": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+    "description": "https://www.wikipedia.org",
+    "category": "Search"
+  },
+  {
+    "id": 38,
+    "name": "YouTube (Repeated)",
+    "logo": "https://www.youtube.com/favicon.ico",
+    "description": "https://www.youtube.com",
+    "category": "Entertainment"
+  },
+  {
+    "id": 39,
+    "name": "TechVerse",
+    "logo": "https://github.githubassets.com/favicon.ico",
+    "description": "https://techverse.net",
+    "category": "Development"
+  },
+  {
+    "id": 40,
+    "name": "NewsSphere",
+    "logo": "https://www.bbc.co.uk/favicon.ico",
+    "description": "https://newssphere.com",
+    "category": "News"
+  },
+  {
+    "id": 41,
+    "name": "DevLab",
+    "logo": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+    "description": "https://devlab.io",
+    "category": "Development"
+  },
+  {
+    "id": 42,
+    "name": "CodeSpace",
+    "logo": "https://blog.codepen.io/wp-content/uploads/2014/06/favicon-150x150.png",
+    "description": "https://codespace.com",
+    "category": "Development"
+  },
+  {
+    "id": 43,
+    "name": "SoundStream",
+    "logo": "https://www.scdn.co/i/_global/favicon.png",
+    "description": "https://soundstream.net",
+    "category": "Entertainment"
+  },
+  {
+    "id": 44,
+    "name": "GameSpot",
+    "logo": "https://www.gamespot.com/favicon.ico",
+    "description": "https://www.gamespot.com",
+    "category": "Gaming"
+  },
+  {
+    "id": 1740095188478,
+    "name": "Attacker",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=attackertv.stream",
+    "description": "https://attackertv.stream/",
+    "category": "Entertainment"
+  },
+  {
+    "id": 1740515618912,
+    "name": "Vercel",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
+    "description": "https://vercel.com/",
+    "category": "Development"
+  },
+  {
+    "id": 1740516144472,
+    "name": "Chatgpt",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com",
+    "description": "https://chatgpt.com",
+    "category": "Development"
+  },
+  {
+    "id": 1740719197878,
+    "name": "Slidesgo",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=slidesgo.com",
+    "description": "https://slidesgo.com",
+    "category": "Development"
+  },
+  {
+    "username": "Rishi",
+    "password": "123"
+  },
+  {
+    "id": 1740735123825,
+    "name": "React bits",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=www.reactbits.dev",
+    "description": "https://www.reactbits.dev/",
+    "category": "Development"
+  }
+]
