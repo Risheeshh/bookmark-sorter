@@ -1,8 +1,6 @@
-# React + Vite
+Bookmark Sorter is your ultimate tool for organizing and managing your favorite websites effortlessly. No more endless searching—save, categorize, and access your bookmarks with ease.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+So far the bookmarks can be added, sorted and seen in an attractive look using React with user profile also set up through an express backend. However the ML implementation- using it to automatically classify it into categories instead of the user having to mention it himself is under development.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is not complete due to situations beyond the author's control however someday it will be :)
+-Rishi Singh
