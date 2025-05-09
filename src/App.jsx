@@ -5,6 +5,9 @@ import AOS from 'aos';
 import LoginSignup from './components/LoginSignup';
 import MainApp from './MainApp';
 import About from './About';
+import Stats from './components/userStats';
+import Features from './features';
+import Navbar from './components/navbar';
 import SortedBookmark from './components/sortedBookmarks';
 import Profile from './components/profile';
 
@@ -19,6 +22,7 @@ export default function App() {
   return (
     <UserContext.Provider value={{ isAuthenticated, setIsAuthenticated, username, setUsername }}>
       <Router>
+      
         <Routes>
           <Route 
             path="/" 
@@ -28,7 +32,9 @@ export default function App() {
             path="/app" 
             element={isAuthenticated ? <MainApp /> : <Navigate to="/" />} 
           />
+          <Route path="/features" element={<Features />} />
           <Route path="/about" element={<About />} />
+          <Route path="/stats" element={<Stats />} />
           <Route path="/sorted-bookmark" element={<SortedBookmark />} />  
           <Route path="/profile" element={<Profile />} /> {/* ✅ Pass username to Profile */}
         </Routes>

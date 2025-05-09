@@ -4,346 +4,652 @@
     "name": "Google",
     "logo": "https://www.google.com/favicon.ico",
     "description": "https://www.google.com",
-    "category": "Search"
+    "category": "Search",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "search",
+      "tools"
+    ],
+    "clicked": 25
   },
   {
     "id": 2,
     "name": "YouTube",
     "logo": "https://www.youtube.com/favicon.ico",
     "description": "https://www.youtube.com",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "video",
+      "entertainment"
+    ],
+    "clicked": 45
   },
   {
     "id": 3,
     "name": "GitHub",
     "logo": "https://github.githubassets.com/favicon.ico",
     "description": "https://github.com",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "code",
+      "development"
+    ],
+    "clicked": 30
   },
   {
     "id": 4,
     "name": "StackOverflow",
     "logo": "https://stackoverflow.com/favicon.ico",
     "description": "https://stackoverflow.com",
-    "category": "Search"
+    "category": "Search",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "questions",
+      "developers"
+    ],
+    "clicked": 60
   },
   {
     "id": 5,
     "name": "Reddit",
     "logo": "https://www.redditstatic.com/favicon.ico",
     "description": "https://www.reddit.com",
-    "category": "Social"
+    "category": "Social",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "social",
+      "discussions"
+    ],
+    "clicked": 80
   },
   {
     "id": 6,
     "name": "Netflix",
     "logo": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico",
     "description": "https://www.netflix.com",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "movies",
+      "streaming"
+    ],
+    "clicked": 90
   },
   {
     "id": 7,
     "name": "Amazon",
     "logo": "https://www.amazon.com/favicon.ico",
     "description": "https://www.amazon.com",
-    "category": "E-Commerce"
+    "category": "E-Commerce",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "shopping",
+      "marketplace"
+    ],
+    "clicked": 120
   },
   {
     "id": 8,
     "name": "Twitter (X)",
     "logo": "https://abs.twimg.com/favicons/twitter.2.ico",
     "description": "https://twitter.com",
-    "category": "Social"
+    "category": "Social",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "social",
+      "microblogging"
+    ],
+    "clicked": 50
   },
   {
     "id": 9,
     "name": "Facebook",
     "logo": "https://www.facebook.com/favicon.ico",
     "description": "https://www.facebook.com",
-    "category": "Social"
+    "category": "Social",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "social",
+      "networking"
+    ],
+    "clicked": 110
   },
   {
     "id": 10,
     "name": "Twitch",
     "logo": "https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png",
     "description": "https://www.twitch.tv",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "gaming",
+      "streaming"
+    ],
+    "clicked": 70
   },
   {
     "id": 11,
     "name": "Wikipedia",
     "logo": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
     "description": "https://www.wikipedia.org",
-    "category": "Search"
+    "category": "Search",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "knowledge",
+      "search"
+    ],
+    "clicked": 130
   },
   {
     "id": 12,
     "name": "LinkedIn",
     "logo": "https://static.licdn.com/sc/h/3i1z3r5t6x8k0fn8f8rqlhzp9",
     "description": "https://www.linkedin.com",
-    "category": "Social"
+    "category": "Social",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "professional",
+      "networking"
+    ],
+    "clicked": 60
   },
   {
     "id": 13,
     "name": "Discord",
     "logo": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
     "description": "https://discord.com",
-    "category": "Social"
+    "category": "Social",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "communication",
+      "chat"
+    ],
+    "clicked": 95
   },
   {
     "id": 14,
     "name": "Dev.to",
     "logo": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
     "description": "https://dev.to",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "developers",
+      "community"
+    ],
+    "clicked": 40
   },
   {
     "id": 15,
     "name": "Dribbble",
     "logo": "https://cdn.dribbble.com/assets/favicon.ico",
     "description": "https://dribbble.com",
-    "category": "Design"
+    "category": "Design",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "design",
+      "creativity"
+    ],
+    "clicked": 65
   },
   {
     "id": 16,
     "name": "Figma",
     "logo": "https://static.figma.com/app/icon/1/favicon.ico",
     "description": "https://www.figma.com",
-    "category": "Design"
+    "category": "Design",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "design",
+      "tools"
+    ],
+    "clicked": 75
   },
   {
     "id": 17,
     "name": "Hacker News",
     "logo": "https://news.ycombinator.com/favicon.ico",
     "description": "https://news.ycombinator.com",
-    "category": "News"
+    "category": "News",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "news",
+      "technology"
+    ],
+    "clicked": 85
   },
   {
     "id": 18,
     "name": "Notion",
     "logo": "https://www.notion.so/images/favicon.ico",
     "description": "https://www.notion.so",
-    "category": "Productivity"
+    "category": "Productivity",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "productivity",
+      "organization"
+    ],
+    "clicked": 100
   },
   {
     "id": 19,
     "name": "Spotify",
     "logo": "https://www.scdn.co/i/_global/favicon.png",
     "description": "https://www.spotify.com",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "music",
+      "streaming"
+    ],
+    "clicked": 150
   },
   {
     "id": 20,
     "name": "Trello",
     "logo": "https://d2k1ftgv7pobq7.cloudfront.net/meta/favicon-32x32.png",
     "description": "https://trello.com",
-    "category": "Productivity"
+    "category": "Productivity",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "project management",
+      "organization"
+    ],
+    "clicked": 120
   },
   {
     "id": 21,
     "name": "Pinterest",
     "logo": "https://s.pinimg.com/webapp/favicon-7e5a36eb.png",
     "description": "https://www.pinterest.com",
-    "category": "Social"
+    "category": "Social",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "images",
+      "inspiration"
+    ],
+    "clicked": 95
   },
   {
     "id": 22,
     "name": "CodePen",
     "logo": "https://blog.codepen.io/wp-content/uploads/2014/06/favicon-150x150.png",
     "description": "https://codepen.io",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "code",
+      "projects"
+    ],
+    "clicked": 110
   },
   {
     "id": 23,
     "name": "Medium",
     "logo": "https://miro.medium.com/1*mLP_j6O_g3x2rA-ocZZSmg.png",
     "description": "https://medium.com",
-    "category": "News"
+    "category": "News",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "writing",
+      "blogging"
+    ],
+    "clicked": 60
   },
   {
     "id": 24,
     "name": "AI Hub",
     "logo": "https://abs.twimg.com/favicons/twitter.2.ico",
     "description": "https://aihub.com",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "AI",
+      "technology"
+    ],
+    "clicked": 85
   },
   {
     "id": 25,
     "name": "DataVerse",
     "logo": "https://www.google.com/favicon.ico",
     "description": "https://dataverse.com",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "data",
+      "database"
+    ],
+    "clicked": 120
   },
   {
     "id": 26,
     "name": "SketchPad",
     "logo": "https://static.figma.com/app/icon/1/favicon.ico",
     "description": "https://sketchpad.io",
-    "category": "Design"
+    "category": "Design",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "design",
+      "drawing"
+    ],
+    "clicked": 150
   },
   {
     "id": 27,
     "name": "CryptoWorld",
     "logo": "https://news.ycombinator.com/favicon.ico",
     "description": "https://cryptoworld.io",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "cryptocurrency",
+      "finance"
+    ],
+    "clicked": 90
   },
   {
     "id": 28,
     "name": "DesignFlow",
     "logo": "https://cdn.dribbble.com/assets/favicon.ico",
     "description": "https://designflow.co",
-    "category": "Design"
+    "category": "Design",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "design",
+      "tools"
+    ],
+    "clicked": 80
   },
   {
     "id": 29,
     "name": "Epic Games",
     "logo": "https://www.epicgames.com/favicon.ico",
     "description": "https://www.epicgames.com",
-    "category": "Gaming"
+    "category": "Gaming",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "games",
+      "platform"
+    ],
+    "clicked": 100
   },
   {
     "id": 30,
     "name": "BattleNet",
     "logo": "https://www.battle.net/favicon.ico",
     "description": "https://www.battle.net",
-    "category": "Gaming"
+    "category": "Gaming",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "games",
+      "platform"
+    ],
+    "clicked": 110
   },
   {
     "id": 31,
     "name": "Kickstarter",
     "logo": "https://www.kickstarter.com/favicon.ico",
     "description": "https://www.kickstarter.com",
-    "category": "E-Commerce"
+    "category": "E-Commerce",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "funding",
+      "projects"
+    ],
+    "clicked": 130
   },
   {
     "id": 32,
     "name": "PayPal",
     "logo": "https://www.paypalobjects.com/webstatic/icon/pp32.png",
     "description": "https://www.paypal.com",
-    "category": "E-Commerce"
+    "category": "E-Commerce",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "payments",
+      "transactions"
+    ],
+    "clicked": 90
   },
   {
     "id": 33,
     "name": "BBC News",
     "logo": "https://www.bbc.co.uk/favicon.ico",
     "description": "https://www.bbc.com/news",
-    "category": "News"
+    "category": "News",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "news",
+      "current events"
+    ],
+    "clicked": 120
   },
   {
     "id": 34,
     "name": "NY Times",
     "logo": "https://static01.nyt.com/favicon.ico",
     "description": "https://www.nytimes.com",
-    "category": "News"
+    "category": "News",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "news",
+      "journalism"
+    ],
+    "clicked": 110
   },
   {
     "id": 35,
     "name": "NASA",
-    "logo": "https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon.png",
+    "logo": "https://www.nasa.gov/sites/all/themes/nasa/favicon.ico",
     "description": "https://www.nasa.gov",
-    "category": "Search"
+    "category": "Science",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "space",
+      "exploration"
+    ],
+    "clicked": 140
   },
   {
     "id": 36,
     "name": "MIT OpenCourseWare",
     "logo": "https://ocw.mit.edu/favicon.ico",
     "description": "https://ocw.mit.edu",
-    "category": "Search"
+    "category": "Search",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "education",
+      "online courses"
+    ],
+    "clicked": 20
   },
   {
     "id": 37,
     "name": "Wikipedia (Repeated)",
     "logo": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
     "description": "https://www.wikipedia.org",
-    "category": "Search"
+    "category": "Search",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "knowledge",
+      "encyclopedia"
+    ],
+    "clicked": 40
   },
   {
     "id": 38,
     "name": "YouTube (Repeated)",
     "logo": "https://www.youtube.com/favicon.ico",
     "description": "https://www.youtube.com",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "video",
+      "streaming"
+    ],
+    "clicked": 50
   },
   {
     "id": 39,
     "name": "TechVerse",
     "logo": "https://github.githubassets.com/favicon.ico",
     "description": "https://techverse.net",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "tech",
+      "development"
+    ],
+    "clicked": 30
   },
   {
     "id": 40,
     "name": "NewsSphere",
     "logo": "https://www.bbc.co.uk/favicon.ico",
     "description": "https://newssphere.com",
-    "category": "News"
+    "category": "News",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "news",
+      "current events"
+    ],
+    "clicked": 60
   },
   {
     "id": 41,
     "name": "DevLab",
     "logo": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
     "description": "https://devlab.io",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "developers",
+      "projects"
+    ],
+    "clicked": 45
   },
   {
     "id": 42,
     "name": "CodeSpace",
     "logo": "https://blog.codepen.io/wp-content/uploads/2014/06/favicon-150x150.png",
     "description": "https://codespace.com",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "code",
+      "projects"
+    ],
+    "clicked": 35
   },
   {
     "id": 43,
     "name": "SoundStream",
     "logo": "https://www.scdn.co/i/_global/favicon.png",
     "description": "https://soundstream.net",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "music",
+      "streaming"
+    ],
+    "clicked": 55
   },
   {
     "id": 44,
     "name": "GameSpot",
     "logo": "https://www.gamespot.com/favicon.ico",
     "description": "https://www.gamespot.com",
-    "category": "Gaming"
+    "category": "Gaming",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "gaming",
+      "reviews"
+    ],
+    "clicked": 70
   },
   {
     "id": 1740095188478,
     "name": "Attacker",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=attackertv.stream",
     "description": "https://attackertv.stream/",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "entertainment",
+      "streaming"
+    ],
+    "clicked": 80
   },
   {
     "id": 1740515618912,
     "name": "Vercel",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
     "description": "https://vercel.com/",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "cloud",
+      "deployment"
+    ],
+    "clicked": 100
   },
   {
     "id": 1740516144472,
     "name": "Chatgpt",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com",
     "description": "https://chatgpt.com",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "AI",
+      "chatbot"
+    ],
+    "clicked": 110
   },
   {
     "id": 1740719197878,
     "name": "Slidesgo",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=slidesgo.com",
     "description": "https://slidesgo.com",
-    "category": "Development"
-  },
-  {
-    "username": "Rishi",
-    "password": "123"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "presentation",
+      "templates"
+    ],
+    "clicked": 120
   },
   {
     "id": 1740735123825,
     "name": "React bits",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=www.reactbits.dev",
     "description": "https://www.reactbits.dev/",
-    "category": "Development"
+    "category": "Development",
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "tags": [
+      "React",
+      "library"
+    ],
+    "clicked": 130
+  },
+  {
+    "id": 1744891452020,
+    "name": "Manipal Site",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mujslcm.jaipur.manipal.edu",
+    "description": "http://mujslcm.jaipur.manipal.edu/Home/",
+    "category": "Productivity",
+    "createdAt": "2025-04-17T12:04:12.020Z"
+  },
+  {
+    "id": 1744892105809,
+    "name": "Manga",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mangadex.org",
+    "description": "https://mangadex.org/",
+    "category": "Entertainment",
+    "createdAt": "2025-04-17T12:15:05.809Z"
   }
 ]

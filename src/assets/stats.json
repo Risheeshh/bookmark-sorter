@@ -1,0 +1,25 @@
+{
+    "totalBookmarks": 142,
+    "categoryDistribution": [
+      { "category": "Tech", "value": 40 },
+      { "category": "Design", "value": 30 },
+      { "category": "News", "value": 20 },
+      { "category": "Tutorials", "value": 32 },
+      { "category": "Inspiration", "value": 20 }
+    ],
+    "bookmarksPerDay": [
+      { "date": "Mon", "count": 12 },
+      { "date": "Tue", "count": 19 },
+      { "date": "Wed", "count": 8 },
+      { "date": "Thu", "count": 25 },
+      { "date": "Fri", "count": 30 },
+      { "date": "Sat", "count": 18 },
+      { "date": "Sun", "count": 10 }
+    ],
+    "avgPerSession": 7,
+    "mostVisited": "https://github.com/",
+    "topTag": "productivity",
+    "streakDays": 4,
+    "busiestDay": "Friday"
+  }
+  

@@ -1,10 +1,11 @@
 import React from "react";
-
+import Navbar from "./components/navbar";
 export default function About() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-700 text-white p-8">
+      <Navbar />
       {/* Introduction Section */}
-      <div className="max-w-4xl mx-auto text-center mb-16">
+      <div className="max-w-4xl mx-auto text-center mb-16 mt-20">
         <h1 className="text-4xl font-extrabold mb-4">About Bookmark Sorter</h1>
         <p className="text-lg text-gray-300">
           Bookmark Sorter is your ultimate tool for organizing and managing
@@ -18,7 +19,7 @@ export default function About() {
         {/* Image Section */}
         <div className="w-full md:w-1/2">
           <img
-            src="https://source.unsplash.com/500x500/?team,work"
+            src="/images/Me.png"
             alt="Team"
             className="rounded-lg shadow-md w-full"
           />

@@ -5,8 +5,8 @@ import BookmarkSpace from './components/bookmarkSpace';
 import SearchBar from './components/searchBar';
 import LandingPage from './components/landingPage';
 import SortedGenres from './components/sortedGenres';
-import AddBookmark from './components/addBookmark';
 import ProfileSidebar from './components/profile';
+import Navbar from './components/navbar';
 
 import bookmarksData from './assets/bookmarks.json';
 
@@ -51,6 +51,7 @@ export default function MainApp({ setIsAuthenticated }) {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-500 to-blue-900 text-white font-sans">
       {isSearchActive && <div className="fixed inset-0 bg-black bg-opacity-50 z-50" />}
+      
       <header className="flex justify-between items-center p-6 bg-blue-900">
         <motion.h1 className="text-3xl font-bold font-extrabold text-center bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 drop-shadow-lg" initial={{ opacity: 0, y: -50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
           Bookmark Sorter
@@ -64,6 +65,9 @@ export default function MainApp({ setIsAuthenticated }) {
               <Link to="/features">Features</Link>
             </motion.li>
             <motion.li whileHover={{ scale: 1.1 }}>
+              <Link to="/stats">Stats</Link>
+            </motion.li>
+            <motion.li whileHover={{ scale: 1.1 }}>
               <Link to="/about">About</Link>
             </motion.li>
           </ul>
@@ -75,10 +79,7 @@ export default function MainApp({ setIsAuthenticated }) {
             <img src="/images/user.png" alt="Profile" className="w-10 h-10 rounded-full" />
           </button>
 
-          {/* Logout Button */}
-          <button onClick={handleLogout} className="bg-red-500 px-4 py-2 rounded hover:bg-red-700">
-            Sign Out
-          </button>
+          
         </div>
       </header>
 
@@ -91,7 +92,7 @@ export default function MainApp({ setIsAuthenticated }) {
           </div>
           <div className="flex gap-2">
             <SortedGenres bookmarks={bookmarks} setSearchTerm={setSearchTerm} />
-            <AddBookmark onAddBookmark={handleAddBookmark} />
+            
           </div>
         </div>
       </section>
